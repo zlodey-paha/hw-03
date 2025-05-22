@@ -31,7 +31,7 @@
 
 ### Решение 2
 
-![Hosts]()
+![Latest Data](https://github.com/zlodey-paha/hw-03/blob/main/Latest_data.PNG)
 
  ---
 
@@ -46,6 +46,8 @@
 
 ### Решение 3
 
+![Hosts](https://github.com/zlodey-paha/hw-03/blob/main/2Hosts.PNG)
+
  ---
 
 ### Задание 4
@@ -57,5 +59,7 @@
 Разместите на нём несколько графиков на ваше усмотрение.
 
 ### Решение 4
+
+![DashBoard](https://github.com/zlodey-paha/hw-03/blob/main/4DashB.PNG)
 
  ---
